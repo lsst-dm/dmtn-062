@@ -46,8 +46,6 @@
 
 .. note::
 
-   **This technote is not yet published.**
-
    A look at using OpenShift in LSST
 
 .. Add content here.
